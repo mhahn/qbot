@@ -1,0 +1,2 @@
+# qbot
+Slack study companion
